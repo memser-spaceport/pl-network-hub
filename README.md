@@ -1,2 +1,3 @@
 # PL Network Hub
-discussions about features &amp; ideas that will benefit the entire network
+Add your feedback via discussions.
+Discuss - features &amp; ideas that will benefit the entire network.
